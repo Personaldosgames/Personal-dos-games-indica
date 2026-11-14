@@ -1,0 +1,9 @@
+{
+  "name": "Personal dos Games Indica",
+  "short_name": "PDG Indica",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#0d1210",
+  "theme_color": "#101713",
+  "icons": []
+}
